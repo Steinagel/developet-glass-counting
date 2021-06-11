@@ -1,6 +1,6 @@
 ---
 applications:
-  - name: glass-counter
+  - name: vidro-app
     memory: 512M
     disk_quota: 2048M
     routes:
